@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/virtual-pet/static/css/main.944cf827.css",
-    "main.js": "/virtual-pet/static/js/main.f29bbf20.js",
-    "static/js/453.10f0cc0e.chunk.js": "/virtual-pet/static/js/453.10f0cc0e.chunk.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/virtual-pet/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/virtual-pet/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/virtual-pet/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/virtual-pet/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/virtual-pet/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/egg.png": "/virtual-pet/static/media/egg.cb583627f392e752aede.png",
-    "static/media/snail.gif": "/virtual-pet/static/media/snail.cbb14f26bf165d23bce8.gif",
-    "static/media/chicken.gif": "/virtual-pet/static/media/chicken.799fca85a8d663815ecc.gif",
-    "static/media/mushroom.gif": "/virtual-pet/static/media/mushroom.c160a321ac057c5852ff.gif",
-    "index.html": "/virtual-pet/index.html",
-    "main.944cf827.css.map": "/virtual-pet/static/css/main.944cf827.css.map",
-    "main.f29bbf20.js.map": "/virtual-pet/static/js/main.f29bbf20.js.map",
-    "453.10f0cc0e.chunk.js.map": "/virtual-pet/static/js/453.10f0cc0e.chunk.js.map"
+    "main.css": "/Virtual-Pet/static/css/main.1baf7e6e.css",
+    "main.js": "/Virtual-Pet/static/js/main.47412c21.js",
+    "static/js/453.10f0cc0e.chunk.js": "/Virtual-Pet/static/js/453.10f0cc0e.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/Virtual-Pet/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/Virtual-Pet/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/Virtual-Pet/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/Virtual-Pet/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Virtual-Pet/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/egg.png": "/Virtual-Pet/static/media/egg.cb583627f392e752aede.png",
+    "static/media/snail.gif": "/Virtual-Pet/static/media/snail.cbb14f26bf165d23bce8.gif",
+    "static/media/chicken.gif": "/Virtual-Pet/static/media/chicken.799fca85a8d663815ecc.gif",
+    "static/media/mushroom.gif": "/Virtual-Pet/static/media/mushroom.c160a321ac057c5852ff.gif",
+    "index.html": "/Virtual-Pet/index.html",
+    "main.1baf7e6e.css.map": "/Virtual-Pet/static/css/main.1baf7e6e.css.map",
+    "main.47412c21.js.map": "/Virtual-Pet/static/js/main.47412c21.js.map",
+    "453.10f0cc0e.chunk.js.map": "/Virtual-Pet/static/js/453.10f0cc0e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.944cf827.css",
-    "static/js/main.f29bbf20.js"
+    "static/css/main.1baf7e6e.css",
+    "static/js/main.47412c21.js"
   ]
 }
